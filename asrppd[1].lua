@@ -41,4 +41,13 @@ elseif date2 == "07" then
   date2 = 'июня'
 elseif date2 == "08" then
   date2 =  "августа"
-elseif 
+elseif date2 == "09" then
+  date2 = "сентября"
+elseif date2 == "10" then
+  date2 = "октября"
+elseif date2 == "11" then
+  date2 = "ноября"
+elseif date2 == "12" then
+  date2 = "декабря"
+end
+
